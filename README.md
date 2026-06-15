@@ -1,6 +1,6 @@
 # 惊喜进球
 
-一个简单的静态页面 + 管理页。数据本地开发时写入 `data.json`，部署到 Cloudflare Pages 后写入 KV。
+一个简单的静态页面1 + 管理页。数据本地开发时写入 `data.json`，部署到 Cloudflare Pages 后写入 KV。
 
 ## 本地运行
 
